@@ -1,3 +1,5 @@
-<?
+<?php
     $name = "Josue Ambriz";
-    echo "Hello " .$name;
+
+    echo "Hello ".$name;
+?>
